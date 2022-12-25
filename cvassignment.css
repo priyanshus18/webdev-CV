@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(0, 0, 0, 0.192);
+    color: azure;
+}
+.resume{
+    grid-template-columns: 1.5fr 4fr;
+    display: grid;
+    width: 70%;
+    margin: auto;
+}
+.left{
+    position: initial;
+    padding-right: 20px;
+    background-color: rgba(0, 0, 0, 0.804);
+    margin-bottom: 0%;
+    margin-left: 0%;
+    font-family: cursive;
+  
+}
+.right{
+    position: initial;
+    padding: 20px;
+    background-color: rgb(11, 11, 11);
+}
+.image{
+border-radius: 50%;
+margin-left: 22%;
+}
+.contact{
+padding-bottom: 10px;
+padding-top: 10px;
+padding-left: 22%;
+}
+.skill{
+    padding-left: 22%;
+}
+.language{
+    padding-bottom: 10px;
+    padding-left: 22%;
+}
+.twitter{
+    padding-bottom: 10px;
+    padding-left: 40px;
+    cursor: pointer;
+    transition: opacity 0.30s;
+}
+.twitter:hover{
+    opacity: 0.4;
+}
+.facebook{
+    padding-bottom: 10px;
+    padding-left: 20px;
+    cursor: pointer;
+    transition: opacity 0.30s;
+}
+.facebook:hover{
+    opacity: 0.4;
+}
+.linkedin{
+    padding-bottom: 10px;
+    padding-left: 20px;
+    cursor: pointer;
+    transition: opacity 0.30s;
+}
+.linkedin:hover{
+    opacity: 0.4;
+
+}
+.instagram{
+    padding-bottom: 10px;
+    padding-left: 20px;
+    cursor: pointer;
+    transition: opacity 0.30s;
+}
+.instagram:hover{
+    opacity: 0.4;
+}
+.name{
+padding-bottom: 10px;
+padding-left: 22%;
+}
+.gaming{
+    padding-right: 50px;
+}
+.cricket{
+    padding-right: 50px;
+}
+.music{
+padding-right: 50px;
+padding-left: 20px;
+}
+.right{
+    font-family: cursive;
+}
